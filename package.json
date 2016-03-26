@@ -1,0 +1,25 @@
+{
+  "author": {
+    "name": "baihuibo"
+  },
+  "bugs": {
+    "url": "https://github.com/Microsoft/TypeScript/issues"
+  },
+  "dependencies": {},
+  "description": "TypeScript is a language for application scale JavaScript development",
+
+  "homepage": "http://typescriptlang.org/",
+
+  "license": "Apache-2.0",
+  "main": "./lib/typescript.js",
+
+  "name": "idsp-base-typescript",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baihuibo/idsp-base-typescript.git"
+  },
+  "typings": "./lib/typescript.d.ts",
+  "version": "1.8.9"
+}
